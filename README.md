@@ -1,5 +1,5 @@
 <h1 align="center">Hi  👋, I'm Med Sahbi BenRejeb</h1>
-<h3 align="center">A passionate Web developer from Tunisia</h3>
+<h3 align="center">A passionate BI developer from Tunisia</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
