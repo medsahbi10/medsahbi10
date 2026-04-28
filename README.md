@@ -1,59 +1,98 @@
 <div align="center">
 
-# Hi 👋, I'm Med Sahbi Ben Rejeb
+# Hi 👋, I'm Mohamed Sahbi Ben Rejeb
 
-### Data Engineer | BI Developer | AI & Test Automation Enthusiast
+### Data & AI Engineer | BI Developer | MLOps Enthusiast
 
-Passionate about Data Engineering, Business Intelligence, DevOps, MLOps, and AI-powered automation solutions.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+AI+Engineer;MLOps+%7C+Cloud+%7C+BI+Specialist;Building+Scalable+Data+%26+AI+Solutions;Turning+Data+into+Impact" />
 
+</div>
+
+<p align="center">
+  <em>Passionate about building scalable <strong>Data & AI systems</strong> and transforming business needs into intelligent solutions 🚀</em>
+</p>
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/med-sahbi-ben-rejeb-7677a9272/)
+  
 </div>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Engineering student specialized in Computer Engineering  
-- 💼 Currently working on AI-powered Test Case Generation & BDD Automation  
-- 🔍 Focused on Data Engineering, ETL Pipelines, Power BI, CI/CD, and MLOps  
-- 🤖 Building solutions for automatic Gherkin generation from User Stories & APIs  
-- 🐳 Experienced with Docker, Jenkins, Prometheus, GitLab CI/CD  
-- 📊 Passionate about transforming business needs into scalable technical solutions  
+🎯 Junior **Data & AI Engineer** with strong foundations in BI, Data Engineering, and MLOps  
+🤖 Hands-on experience in **LLM fine-tuning, deployment, and automation**  
+📊 Passionate about **data pipelines, analytics, and intelligent systems**  
+☁️ Interested in **cloud-native AI architectures and scalable systems**  
 
 ---
 
-## 🌐 Connect with Me
+## 🧠 What I Do
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/med-sahbi-ben-rejeb-7677a9272/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-</p>
+- Build **ETL pipelines** and data workflows  
+- Fine-tune and deploy **AI / LLM models**  
+- Design **data warehouses & BI dashboards**  
+- Develop **microservices & APIs**  
+- Implement **CI/CD & MLOps pipelines**  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Data & BI
-Power BI • SQL Server • SSIS • QlikView • PostgreSQL • MySQL • MongoDB  
+### 📊 Data & BI
+SQL • SSIS • Talend • Power BI • DAX • QlikView • Excel  
 
-### DevOps & MLOps
-Docker • Jenkins • GitLab CI/CD • Prometheus • Linux • Git  
+### 🤖 AI / ML
+PyTorch • Transformers • LoRA (PEFT) • Pandas • NumPy • Scikit-learn  
 
-### Development
-Python • Java • C • .NET • Spring Boot • Angular • HTML • CSS  
+### ☁️ Cloud & MLOps
+AWS (SageMaker, Lambda, API Gateway) • Docker • GitLab CI • Prometheus • Grafana  
 
-### Testing & Automation
-Postman • Mocha • BDD • Gherkin • Test Automation  
+### 🧩 SAP
+ABAP • Fiori • SAP BW • SAP Integration Suite  
+
+### 💻 Development
+Python • Java • C • C++ • Spring Boot • Angular • REST APIs • Microservices  
+
+---
+
+## 💼 Experience
+
+### 🤖 AI Engineer Intern — Sofrecom Tunisia (2025)
+
+- Built automated **ETL pipeline** (GitLab CI) for LLM dataset generation  
+- Fine-tuned **StarCoder2 (7B)** for Gherkin generation  
+- Achieved **ROUGE-1: 0.80 / ROUGE-2: 0.73**  
+- Deployed model on **AWS SageMaker + API Gateway**  
+- Built full-stack **AI microservices system**
+
+---
+
+### 📊 BI Engineer Intern — Aziza (2024)
+
+- Performed EDA on **30+ datasets** using Python  
+- Built **Data Warehouse (SSIS + SCD)**  
+- Developed **QlikView dashboards** tracking KPIs  
+
+---
+
+### 🌐 Web Developer Intern — Lumière Logistique (2023)
+
+- Built **invoice management system** (Spring Boot + Angular)  
+- Improved **data validation & security**  
+- Automated financial workflows  
 
 ---
 
 ## 🔥 Featured Projects
 
-- AI-Powered Test Case Generation from User Stories  
-- Automatic Gherkin Code Generation for BDD  
-- End-to-End ETL & Data Warehouse for Telecom Analytics  
-- Power BI KPI Dashboard for Dynamics 365 Sales  
-- DevOps Monitoring with Jenkins + Prometheus + Docker  
+- 🤖 LLM Fine-Tuning for Gherkin Generation  
+- 📊 End-to-End Data Warehouse & BI Dashboards  
+- ⚙️ CI/CD Pipeline with Monitoring (Jenkins + Prometheus)  
+- 🚶 Pedestrian Anomaly Detection (ConvLSTM)  
+- 📈 ML Model with 93% Accuracy for Business Insights  
 
 ---
 
@@ -61,10 +100,38 @@ Postman • Mocha • BDD • Gherkin • Test Automation
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=medsahbi10&show_icons=true&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api?username=medsahbi10&show_icons=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=medsahbi10&layout=compact" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=medsahbi10" />
+
+</div>
+
+---
+
+## 🌱 Current Focus
+
+☁️ Advanced Cloud & MLOps (AWS, scalable AI systems)  
+🧠 LLM optimization & real-world AI applications  
+📊 Data Engineering pipelines & architecture  
+🔐 DevSecOps & system reliability  
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/med-sahbi-ben-rejeb-7677a9272/)  
+📧 medsahbi.benrejeb@gmail.com  
+
+</div>
+
+---
+
+<div align="center">
+
+⭐️ *Check out my repositories and let's build something impactful together!* 🚀  
 
 </div>
