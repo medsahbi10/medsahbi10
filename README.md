@@ -1,17 +1,79 @@
-<h1 align="center">Hi  👋, I'm Med Sahbi BenRejeb</h1>
-<h3 align="center">A passionate BI developer from Tunisia</h3>
+```html
+<h1 align="center">Hi 👋, I'm Med Sahbi Ben Rejeb</h1>
+<h3 align="center">Data Engineer | BI Developer | AI & Test Automation Enthusiast</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/med-sahbi-ben-rejeb-7677a9272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/med-sahbi-ben-rejeb-7677a9272/" height="30" width="40" /></a>
+<p align="center">
+Passionate about Data Engineering, Business Intelligence, DevOps, MLOps, and AI-powered automation solutions.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=medsahbi10&show_icons=true&locale=en&layout=compact" alt="medsahbi10" /></p>
+<h3 align="left">🚀 About Me</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=medsahbi10&show_icons=true&locale=en" alt="medsahbi10" /></p>
+- 🎓 Engineering student specialized in Computer Engineering
+- 💼 Currently working on AI-powered Test Case Generation & BDD Automation
+- 🔍 Focused on Data Engineering, ETL Pipelines, Power BI, CI/CD, and MLOps
+- 🤖 Building solutions for automatic Gherkin generation from User Stories & APIs
+- 🐳 Experienced with Docker, Jenkins, Prometheus, GitLab CI/CD
+- 📊 Passionate about transforming business needs into scalable technical solutions
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=medsahbi10&" alt="medsahbi10" /></p>
+---
 
+<h3 align="left">🌐 Connect with Me</h3>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/med-sahbi-ben-rejeb-7677a9272/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+</p>
+
+---
+
+<h3 align="left">🛠️ Tech Stack</h3>
+
+<h4>Data & BI</h4>
+<p align="left">
+Power BI • SQL Server • SSIS • QlikView • PostgreSQL • MySQL • MongoDB
+</p>
+
+<h4>DevOps & MLOps</h4>
+<p align="left">
+Docker • Jenkins • GitLab CI/CD • Prometheus • Linux • Git
+</p>
+
+<h4>Development</h4>
+<p align="left">
+Python • Java • C • .NET • Spring Boot • Angular • HTML • CSS
+</p>
+
+<h4>Testing & Automation</h4>
+<p align="left">
+Postman • Mocha • BDD • Gherkin • Test Automation
+</p>
+
+---
+
+<h3 align="left">🔥 Featured Projects</h3>
+
+- AI-Powered Test Case Generation from User Stories
+- Automatic Gherkin Code Generation for BDD
+- End-to-End ETL & Data Warehouse for Telecom Analytics
+- Power BI KPI Dashboard for Dynamics 365 Sales
+- DevOps Monitoring with Jenkins + Prometheus + Docker
+
+---
+
+<h3 align="left">📈 GitHub Stats</h3>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=medsahbi10&show_icons=true&theme=default&locale=en" alt="github stats" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=medsahbi10&show_icons=true&locale=en&layout=compact" alt="top languages" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=medsahbi10" alt="streak stats" />
+</p>
+```
