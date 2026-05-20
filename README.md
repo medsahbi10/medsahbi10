@@ -1,17 +1,19 @@
 <div align="center">
 
+<img src="https://github.com/medsahbi10.png" width="140" height="140" style="border-radius:50%" alt="Mohamed Sahbi Ben Rejeb" />
+
 # Hi 👋, I'm Mohamed Sahbi Ben Rejeb
 
 ### Data & AI Engineer · Agentic AI · MLOps
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=0A66C2&center=true&vCenter=true&width=620&lines=Data+%26+AI+Engineer;Building+Agentic+AI+Systems;LangGraph+%E2%80%A2+RAG+%E2%80%A2+Multi-Agent+%E2%80%A2+Evals;Turning+Data+into+Decisions" />
+🤖 Building Agentic AI Systems · 📊 Data Engineering · 🧪 Production-Grade Evals
+LangGraph · RAG · Multi-Agent · DuckDB · Phoenix · Docker · CI
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/medsahbibenrejeb/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medsahbi.benrejeb@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/medsahbi10)
-[![Profile views](https://komarev.com/ghpvc/?username=medsahbi10&color=0A66C2&style=for-the-badge&label=Profile+Views)](https://github.com/medsahbi10)
+<a href="https://www.linkedin.com/in/medsahbibenrejeb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:medsahbi.benrejeb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/medsahbi10"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
@@ -165,14 +167,22 @@ I build **agentic AI systems**, **production-shaped data pipelines**, and the **
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=medsahbi10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=43200" height="180" alt="Mohamed's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medsahbi10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=43200" height="180" alt="Top languages" />
+<a href="https://github.com/medsahbi10">
+  <img src="https://github-readme-stats.vercel.app/api?username=medsahbi10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=43200" height="170" alt="GitHub stats" />
+</a>
+<a href="https://github.com/medsahbi10">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medsahbi10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=43200" height="170" alt="Top languages" />
+</a>
 
-<br>
+<br><br>
 
-<img src="https://streak-stats.demolab.com/?user=medsahbi10&theme=tokyonight&hide_border=true&card_width=860" alt="GitHub streak" />
+<a href="https://github.com/medsahbi10">
+  <img src="https://streak-stats.demolab.com/?user=medsahbi10&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</a>
 
 </div>
+
+> 💡 **If the cards above look blank in your editor's preview**, that's normal — VSCode blocks remote images by default. They will render correctly on <https://github.com/medsahbi10>.
 
 ---
 
