@@ -167,22 +167,14 @@ I build **agentic AI systems**, **production-shaped data pipelines**, and the **
 
 <div align="center">
 
-<a href="https://github.com/medsahbi10">
-  <img src="https://github-readme-stats.vercel.app/api?username=medsahbi10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=43200" height="170" alt="GitHub stats" />
-</a>
-<a href="https://github.com/medsahbi10">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medsahbi10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=43200" height="170" alt="Top languages" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=medsahbi10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=43200" height="180" alt="Mohamed's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medsahbi10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=43200" height="180" alt="Top languages" />
 
-<br><br>
+<br>
 
-<a href="https://github.com/medsahbi10">
-  <img src="https://streak-stats.demolab.com/?user=medsahbi10&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</a>
+<img src="https://streak-stats.demolab.com/?user=medsahbi10&theme=tokyonight&hide_border=true&card_width=860" alt="GitHub streak" />
 
 </div>
-
-> 💡 **If the cards above look blank in your editor's preview**, that's normal — VSCode blocks remote images by default. They will render correctly on <https://github.com/medsahbi10>.
 
 ---
 
