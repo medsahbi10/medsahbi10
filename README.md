@@ -145,6 +145,7 @@ I build **agentic AI systems**, **production-shaped data pipelines**, and the **
 ## 🎓 Education & Certifications
 
 - 🎓 **Engineering Degree, Computer Science (Business Intelligence specialization)** — ESPRIT (2022 – 2025)
+- 🏆 **SAP** — `C_AIG` Certified Associate — Generative AI Developer
 - 🏆 **SAP** — Technology Skills 2024: SAP Integration Suite Adoption Lab
 - 🏆 **Coursera** — Machine Learning Operations (MLOps) Specialization
 - 🏆 **Coursera** — Introduction to Microsoft Azure Cloud Services
@@ -164,12 +165,12 @@ I build **agentic AI systems**, **production-shaped data pipelines**, and the **
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=medsahbi10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medsahbi10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=medsahbi10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=43200" height="180" alt="Mohamed's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medsahbi10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=43200" height="180" alt="Top languages" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=medsahbi10&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=medsahbi10&theme=tokyonight&hide_border=true&card_width=860" alt="GitHub streak" />
 
 </div>
 
